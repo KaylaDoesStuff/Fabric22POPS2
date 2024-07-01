@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "jude.smthelse.mixin.client",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"ExampleClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
