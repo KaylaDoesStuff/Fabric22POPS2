@@ -10,10 +10,11 @@ import org.slf4j.LoggerFactory;
 
 public class SmthElseThen implements ModInitializer {
 	public static final String MOD_ID = "smthelsethen";
-    public static final Logger LOGGER = LoggerFactory.getLogger("smthelsethen");
+	public static final Logger LOGGER = LoggerFactory.getLogger("smthelsethen");
 
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Hello Fabric world!");
-		ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(ModItem::addToVanillaGroup);}
+		ModItem.registerModItems();
+	}
 }
