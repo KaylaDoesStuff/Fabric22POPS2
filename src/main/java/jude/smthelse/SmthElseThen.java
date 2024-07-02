@@ -1,6 +1,8 @@
 package jude.smthelse;
 
 import jude.smthelse.item.ModItem;
+import jude.smthelse.block.ModBlock;
+import jude.smthelse.item.ModItemGroup;
 import net.fabricmc.api.ModInitializer;
 
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
@@ -15,6 +17,5 @@ public class SmthElseThen implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Hello Fabric world!");
-		ModItem.registerModItems();
 	}
 }

@@ -1,4 +1,10 @@
 {
   "item.smthelsethen.mythril_ingot": "Mythril Ingot",
-  "item.smthelsethen.raw_mythril": "Raw Mythril"
+  "item.smthelsethen.raw_mythril": "Raw Mythril",
+
+  "block.smthelsethen.mythril_block": "Mythril Block",
+
+
+  "itemgroup.mythril": "Mythril"
+
 }

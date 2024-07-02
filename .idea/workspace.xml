@@ -5,60 +5,99 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd43bd5c-f136-4349-a4a6-79fb502e25e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2024-07-01_08.35.40-client.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/data/fabricDefaultResourcePacks.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2024-07-01-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2024-07-01-2.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/DIM-1/data/raids.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/DIM1/data/raids_end.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/advancements/63acdfe4-8ecf-374a-878d-bbc28b3cc2c5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/advancements/c9f1c2a5-5419-31dc-8288-99641f14292c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/data/raids.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/entities/r.-1.-1.mca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/entities/r.-1.0.mca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/entities/r.0.-1.mca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/entities/r.0.0.mca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/level.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/level.dat_old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/63acdfe4-8ecf-374a-878d-bbc28b3cc2c5.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/63acdfe4-8ecf-374a-878d-bbc28b3cc2c5.dat_old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/c9f1c2a5-5419-31dc-8288-99641f14292c.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/c9f1c2a5-5419-31dc-8288-99641f14292c.dat_old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/poi/r.-1.-1.mca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/poi/r.-1.0.mca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/poi/r.0.-1.mca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/poi/r.0.0.mca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-1.-1.mca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-1.0.mca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/region/r.0.-1.mca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/region/r.0.0.mca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/session.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/stats/63acdfe4-8ecf-374a-878d-bbc28b3cc2c5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/New World/stats/c9f1c2a5-5419-31dc-8288-99641f14292c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/smthelsethen/lang/en_us.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/smthelsethen/models/item/mythril_ingot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/smthelsethen/models/item/raw_mythril.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/smthelsethen/textures/item/mythril_ingot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2024-07-02_07.11.05-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2024-07-02_07.15.12-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2024-07-02_07.17.34-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2024-07-02_07.21.35-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2024-07-02_07.25.23-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2024-07-02_07.29.19-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2024-07-01-5.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2024-07-02-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2024-07-02-2.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2024-07-02-3.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2024-07-02-4.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2024-07-02-5.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2024-07-02-6.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2024-07-02-7.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/advancements/04ba6478-628e-32a2-915d-0b45ca8b366b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/advancements/27188163-4646-3286-ac8a-969ead2946f4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/advancements/68a3e4ad-dd19-33fa-8035-4934872a4f77.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/advancements/76a85934-d1dc-3e22-b48f-18504df540b9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/advancements/a4081500-9e8c-36ae-a97c-f165f9882cba.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/advancements/a6b4dba8-2dc6-368b-b6ba-80409a4c8f62.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/advancements/aa672712-7b9a-35e7-9d78-80bd1544826b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/advancements/e5bad5ae-87fa-3676-b10f-8a571200822c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/advancements/f594da2a-3dc9-39c1-9261-0e67d02259fd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/advancements/fe7f1e59-f19d-3f45-941b-fff40e9a414c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/04ba6478-628e-32a2-915d-0b45ca8b366b.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/04ba6478-628e-32a2-915d-0b45ca8b366b.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/27188163-4646-3286-ac8a-969ead2946f4.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/68a3e4ad-dd19-33fa-8035-4934872a4f77.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/68a3e4ad-dd19-33fa-8035-4934872a4f77.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/76a85934-d1dc-3e22-b48f-18504df540b9.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/a4081500-9e8c-36ae-a97c-f165f9882cba.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/a6b4dba8-2dc6-368b-b6ba-80409a4c8f62.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/a6b4dba8-2dc6-368b-b6ba-80409a4c8f62.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/aa672712-7b9a-35e7-9d78-80bd1544826b.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/aa672712-7b9a-35e7-9d78-80bd1544826b.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/e5bad5ae-87fa-3676-b10f-8a571200822c.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/f594da2a-3dc9-39c1-9261-0e67d02259fd.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/fe7f1e59-f19d-3f45-941b-fff40e9a414c.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/stats/04ba6478-628e-32a2-915d-0b45ca8b366b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/stats/27188163-4646-3286-ac8a-969ead2946f4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/stats/68a3e4ad-dd19-33fa-8035-4934872a4f77.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/stats/76a85934-d1dc-3e22-b48f-18504df540b9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/stats/a4081500-9e8c-36ae-a97c-f165f9882cba.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/stats/a6b4dba8-2dc6-368b-b6ba-80409a4c8f62.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/stats/aa672712-7b9a-35e7-9d78-80bd1544826b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/stats/e5bad5ae-87fa-3676-b10f-8a571200822c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/stats/f594da2a-3dc9-39c1-9261-0e67d02259fd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/stats/fe7f1e59-f19d-3f45-941b-fff40e9a414c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jude/smthelse/block/ModBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jude/smthelse/item/ModItemGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/smthelsethen/blockstates/mythril_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/smthelsethen/models/block/mythril_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/smthelsethen/models/item/mythril_block.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/smthelsethen/textures/block/mythril_block.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.8/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/jude/smthelse/SmthElseThen.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jude/smthelse/SmthElseThen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/jude/smthelse/item/ModItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jude/smthelse/item/ModItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/smthelsethen/lang/en_us.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/smthelsethen/lang/en_us.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/options.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/DIM-1/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/DIM-1/data/raids.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/DIM1/data/raids_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/DIM1/data/raids_end.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/data/raids.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/entities/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/entities/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/entities/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/entities/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/entities/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/entities/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/entities/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/entities/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jude/smthelse/SmthElseThen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jude/smthelse/SmthElseThen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jude/smthelse/item/ModItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jude/smthelse/item/ModItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/smthelsethen/lang/en_us.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/smthelsethen/lang/en_us.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,14 +137,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/kayla/Documents/GitHub/Fabric22POPS2/Fabric22POPS2/src/main/resources/assets/smthelsethen/models/item",
+    "last_opened_file_path": "/home/kayla/Documents/GitHub/Fabric22POPS2/Fabric22POPS2/src/main/resources/assets/smthelsethen/textures/item",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources/assets/smthelsethen/models/item" />
       <recent name="$PROJECT_DIR$/src/main/resources/assets/smthelsethen/textures/item" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/smthelsethen/models/item" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Minecraft Client" />
