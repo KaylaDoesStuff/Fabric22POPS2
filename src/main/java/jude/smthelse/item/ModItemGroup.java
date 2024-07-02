@@ -18,6 +18,7 @@ public class ModItemGroup {
                     .icon(() -> new ItemStack(ModItem.MYTHRIL_INGOT)).entries((displayContext, entries) -> {
                         entries.add(ModItem.MYTHRIL_INGOT);
                         entries.add(ModItem.RAW_MYTHRIL);
+                        entries.add(ModItem.CIRNO_FUMO);
 
                         entries.add(ModBlock.MYTHRIL_BLOCK);
                     }).build());
