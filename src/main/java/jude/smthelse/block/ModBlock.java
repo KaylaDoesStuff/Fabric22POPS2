@@ -29,4 +29,12 @@ public class ModBlock {
         return Registry.register(Registries.ITEM, new Identifier(SmthElseThen.MOD_ID, name),
                 new BlockItem(block, new FabricItemSettings()));
     }
+
+    public static void addToVanillaGroup(FabricItemGroupEntries entries) {
+        entries.add(MYTHRIL_BLOCK);
+    }
+
+    public static void registerModBlocks() {
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(ModBlock::addToVanillaGroup);
+    }
 }

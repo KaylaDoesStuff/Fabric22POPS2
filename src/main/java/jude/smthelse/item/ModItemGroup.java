@@ -23,4 +23,7 @@ public class ModItemGroup {
                         entries.add(ModBlock.MYTHRIL_BLOCK);
                     }).build());
 
+    public static void registerModGroups() {
+        SmthElseThen.LOGGER.info("Creating groups for "+ SmthElseThen.MOD_ID);
+    }
 }
