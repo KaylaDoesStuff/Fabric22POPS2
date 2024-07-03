@@ -1,8 +1,8 @@
 Items:
-> Mythril Ingot
-> Mythril Rod
-> Raw Mythril
+- Mythril Ingot
+- Mythril Rod
+- Raw Mythril
 
 Blocks:
-> Mythril Block
-> Mythril Ore
+- Mythril Block
+- Mythril Ore
