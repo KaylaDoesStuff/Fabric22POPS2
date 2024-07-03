@@ -1,16 +1,12 @@
 package jude.smthelse.block;
 
 import jude.smthelse.SmthElseThen;
-import jude.smthelse.item.ModItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
-import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
-import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroups;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.sound.BlockSoundGroup;
@@ -30,11 +26,7 @@ public class ModBlock {
                 new BlockItem(block, new FabricItemSettings()));
     }
 
-    public static void addToVanillaGroup(FabricItemGroupEntries entries) {
-        entries.add(MYTHRIL_BLOCK);
-    }
-
     public static void registerModBlocks() {
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(ModBlock::addToVanillaGroup);
+        SmthElseThen.LOGGER.info("Registering Blocks for " + SmthElseThen.MOD_ID);
     }
 }
