@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "smthelsethen:mythril_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "smthelsethen:mythril_ingot"
+  }
+}

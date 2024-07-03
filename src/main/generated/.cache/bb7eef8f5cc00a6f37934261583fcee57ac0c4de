@@ -1,0 +1,6 @@
+// 1.20.1	2024-07-03T06:05:04.760796491	SmthElseThen/Tags for minecraft:block
+3e28609d098f3c0f3973bc9770f558155e864692 data/minecraft/tags/blocks/needs_iron_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data/minecraft/tags/blocks/needs_diamond_tool.json
+7b1c20b5d92fc96bff7b1f35d5557b88352c3f8f data/minecraft/tags/blocks/mineable/pickaxe.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data/fabric/tags/blocks/needs_tool_level_4.json
+2b6c91b78e1f433be3564480a12d2d8cb6957c05 data/minecraft/tags/blocks/needs_stone_tool.json

@@ -22,6 +22,7 @@ public class ModItemGroup {
                         entries.add(ModItem.CIRNO_FUMO);
 
                         entries.add(ModBlock.MYTHRIL_BLOCK);
+                        entries.add(ModBlock.MYTHRIL_ORE);
                     }).build());
 
     public static void registerModGroups() {

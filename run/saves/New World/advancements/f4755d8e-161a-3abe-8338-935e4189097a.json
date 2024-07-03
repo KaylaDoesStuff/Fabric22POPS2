@@ -1,0 +1,99 @@
+{
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-07-03 06:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-07-03 06:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-07-03 06:07:28 +0000"
+    },
+    "done": true
+  },
+  "smthelsethen:recipes/decorations/mythril_block": {
+    "criteria": {
+      "has_mythril_ingot": "2024-07-03 06:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-07-03 06:07:40 +0000"
+    },
+    "done": true
+  },
+  "smthelsethen:recipes/building_blocks/mythril_ingot": {
+    "criteria": {
+      "has_mythril_block": "2024-07-03 06:07:17 +0000"
+    },
+    "done": true
+  },
+  "smthelsethen:recipes/misc/mythril_ingot_from_blasting_raw_mythril": {
+    "criteria": {
+      "has_raw_mythril": "2024-07-03 06:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-07-03 06:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-07-03 06:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-07-03 06:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-07-03 06:07:09 +0000"
+    },
+    "done": false
+  },
+  "smthelsethen:recipes/misc/mythril_ingot_from_smelting_raw_mythril": {
+    "criteria": {
+      "has_raw_mythril": "2024-07-03 06:09:06 +0000"
+    },
+    "done": true
+  },
+  "smthelsethen:recipes/misc/mythril_ingot_from_blasting_mythril_ore": {
+    "criteria": {
+      "has_mythril_ore": "2024-07-03 06:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-07-03 06:07:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-07-03 06:07:23 +0000"
+    },
+    "done": true
+  },
+  "smthelsethen:recipes/misc/mythril_ingot_from_smelting_mythril_ore": {
+    "criteria": {
+      "has_mythril_ore": "2024-07-03 06:08:04 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
