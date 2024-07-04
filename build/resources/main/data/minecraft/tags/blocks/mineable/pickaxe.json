@@ -2,6 +2,9 @@
   "replace": false,
   "values": [
     "smthelsethen:mythril_block",
-    "smthelsethen:mythril_ore"
+    "smthelsethen:mythril_ore",
+    "smthelsethen:deepslate_mythril_ore",
+    "smthelsethen:titanium_block",
+    "smthelsethen:titanium_ore"
   ]
 }

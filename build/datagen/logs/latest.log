@@ -1,5 +1,5 @@
-[06:04:54] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.20.1 with Fabric Loader 0.15.11
-[06:04:54] [main/INFO] (FabricLoader) Loading 46 mods:
+[09:33:45] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.20.1 with Fabric Loader 0.15.11
+[09:33:46] [main/INFO] (FabricLoader) Loading 46 mods:
 	- fabric-api 0.92.2+1.20.1
 	- fabric-api-base 0.4.31+1802ada577
 	- fabric-api-lookup-api-v1 1.6.36+1802ada577
@@ -46,25 +46,27 @@
 	- minecraft 1.20.1
 	- mixinextras 0.3.5
 	- smthelsethen 1.0.0
-[06:04:54] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/kayla/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/9527e6b0d2449408958fd1302594dc65ec5ade9c/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[06:04:54] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[06:04:54] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_16
-[06:04:54] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
-[06:04:55] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[06:05:03] [main/INFO] (smthelsethen) Hello Fabric world!
-[06:05:03] [main/INFO] (smthelsethen) Registering Items for smthelsethen
-[06:05:03] [main/INFO] (smthelsethen) Registering Blocks for smthelsethen
-[06:05:03] [main/INFO] (smthelsethen) Creating groups for smthelsethen
-[06:05:03] [main/INFO] (FabricDataGenHelper) Running data generator for smthelsethen
-[06:05:04] [main/INFO] (Minecraft) Starting provider: SmthElseThen/Tags for minecraft:block
-[06:05:04] [main/INFO] (Minecraft) SmthElseThen/Tags for minecraft:block finished after 507 ms
-[06:05:04] [main/INFO] (Minecraft) Starting provider: SmthElseThen/Tags for minecraft:item
-[06:05:04] [main/INFO] (Minecraft) SmthElseThen/Tags for minecraft:item finished after 0 ms
-[06:05:04] [main/INFO] (Minecraft) Starting provider: SmthElseThen/Block Loot Tables
-[06:05:04] [main/INFO] (Minecraft) SmthElseThen/Block Loot Tables finished after 56 ms
-[06:05:04] [main/INFO] (Minecraft) Starting provider: SmthElseThen/Model Definitions
-[06:05:04] [main/INFO] (Minecraft) SmthElseThen/Model Definitions finished after 57 ms
-[06:05:04] [main/INFO] (Minecraft) Starting provider: SmthElseThen/Recipes
-[06:05:04] [main/INFO] (Minecraft) SmthElseThen/Recipes finished after 22 ms
-[06:05:04] [main/INFO] (Minecraft) All providers took: 647 ms
-[06:05:04] [main/INFO] (Minecraft) Caching: total files: 29, old count: 0, new count: 30, removed stale: 0, written: 29
+[09:33:46] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/kayla/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/9527e6b0d2449408958fd1302594dc65ec5ade9c/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[09:33:46] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[09:33:46] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_16
+[09:33:46] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
+[09:33:47] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[09:33:57] [main/INFO] (smthelsethen) Hello Fabric world!
+[09:33:57] [main/INFO] (smthelsethen) Registering Items for smthelsethen
+[09:33:57] [main/INFO] (smthelsethen) Registering Blocks for smthelsethen
+[09:33:57] [main/INFO] (smthelsethen) Creating groups for smthelsethen
+[09:33:57] [main/INFO] (FabricDataGenHelper) Running data generator for smthelsethen
+[09:33:58] [main/INFO] (Minecraft) Starting provider: SmthElseThen/Tags for minecraft:block
+[09:33:58] [main/INFO] (Minecraft) SmthElseThen/Tags for minecraft:block finished after 516 ms
+[09:33:58] [main/INFO] (Minecraft) Starting provider: SmthElseThen/Tags for minecraft:item
+[09:33:58] [main/INFO] (Minecraft) SmthElseThen/Tags for minecraft:item finished after 0 ms
+[09:33:58] [main/INFO] (Minecraft) Starting provider: SmthElseThen/Block Loot Tables
+[09:33:58] [main/INFO] (Minecraft) SmthElseThen/Block Loot Tables finished after 48 ms
+[09:33:58] [main/INFO] (Minecraft) Starting provider: SmthElseThen/Model Definitions
+[09:33:58] [main/INFO] (Minecraft) SmthElseThen/Model Definitions finished after 62 ms
+[09:33:58] [main/INFO] (Minecraft) Starting provider: SmthElseThen/Recipes
+[09:33:58] [main/INFO] (Minecraft) SmthElseThen/Recipes finished after 25 ms
+[09:33:58] [main/INFO] (Minecraft) Starting provider: SmthElseThen/World Gen
+[09:33:58] [main/INFO] (Minecraft) SmthElseThen/World Gen finished after 22 ms
+[09:33:58] [main/INFO] (Minecraft) All providers took: 679 ms
+[09:33:58] [main/INFO] (Minecraft) Caching: total files: 63, old count: 63, new count: 64, removed stale: 0, written: 1

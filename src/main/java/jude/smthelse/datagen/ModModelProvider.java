@@ -17,6 +17,10 @@ public class ModModelProvider extends FabricModelProvider {
     public void generateBlockStateModels(BlockStateModelGenerator blockStateModelGenerator) {
         blockStateModelGenerator.registerSimpleCubeAll(ModBlock.MYTHRIL_BLOCK);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlock.MYTHRIL_ORE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlock.DEEPSLATE_MYTHRIL_ORE);
+
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlock.TITANIUM_BLOCK);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlock.TITANIUM_ORE);
     }
 
     @Override
@@ -25,5 +29,8 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItem.MYTHRIL_ROD, Models.GENERATED);
         itemModelGenerator.register(ModItem.RAW_MYTHRIL, Models.GENERATED);
         itemModelGenerator.register(ModItem.CIRNO_FUMO, Models.GENERATED);
+
+        itemModelGenerator.register(ModItem.TITANIUM_INGOT, Models.GENERATED);
+        itemModelGenerator.register(ModItem.RAW_TITANIUM, Models.GENERATED);
     }
 }

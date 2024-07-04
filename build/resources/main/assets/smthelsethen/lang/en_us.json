@@ -5,8 +5,12 @@
   "item.smthelsethen.mythril_rod": "Mythril Rod",
 
   "block.smthelsethen.mythril_block": "Mythril Block",
+  "block.smthelsethen.mythril_ore": "Mythril Ore",
+  "block.smthelsethen.deepslate_mythril_ore": "Deepslate Mythril Ore",
+  "block.smthelsethen.titanium_block": "Titanium Block",
+  "block.smthelsethen.titanium_ore": "Titanium Ore",
 
-
-  "itemgroup.mythril": "Mythril"
+  "itemgroup.mythril": "Mythril",
+  "itemgroup.titanium": "Titanium"
 
 }

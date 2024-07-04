@@ -3,6 +3,7 @@ package jude.smthelse;
 import jude.smthelse.item.ModItem;
 import jude.smthelse.block.ModBlock;
 import jude.smthelse.item.ModItemGroup;
+import jude.smthelse.world.gen.ModWorldGeneration;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -17,5 +18,6 @@ public class SmthElseThen implements ModInitializer {
 		ModItem.registerModItems();
 		ModBlock.registerModBlocks();
 		ModItemGroup.registerModGroups();
+		ModWorldGeneration.generateModWorldGen();
 	}
 }

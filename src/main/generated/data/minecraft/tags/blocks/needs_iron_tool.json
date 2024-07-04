@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "smthelsethen:mythril_ore"
+    "smthelsethen:mythril_ore",
+    "smthelsethen:deepslate_mythril_ore"
   ]
 }

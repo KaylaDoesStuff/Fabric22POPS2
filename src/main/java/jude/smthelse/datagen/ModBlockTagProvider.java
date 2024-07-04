@@ -20,15 +20,22 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
     protected void configure(RegistryWrapper.WrapperLookup arg) {
         getOrCreateTagBuilder(BlockTags.PICKAXE_MINEABLE)
                 .add(ModBlock.MYTHRIL_BLOCK)
-                .add(ModBlock.MYTHRIL_ORE);
+                .add(ModBlock.MYTHRIL_ORE)
+                .add(ModBlock.DEEPSLATE_MYTHRIL_ORE)
+
+                .add(ModBlock.TITANIUM_BLOCK)
+                .add(ModBlock.TITANIUM_ORE);
 
         getOrCreateTagBuilder(BlockTags.NEEDS_STONE_TOOL)
-                .add(ModBlock.MYTHRIL_BLOCK);
+                .add(ModBlock.MYTHRIL_BLOCK)
+                .add(ModBlock.TITANIUM_BLOCK);
 
         getOrCreateTagBuilder(BlockTags.NEEDS_IRON_TOOL)
-                .add(ModBlock.MYTHRIL_ORE);
+                .add(ModBlock.MYTHRIL_ORE)
+                .add(ModBlock.DEEPSLATE_MYTHRIL_ORE);
 
-        getOrCreateTagBuilder(BlockTags.NEEDS_DIAMOND_TOOL);
+        getOrCreateTagBuilder(BlockTags.NEEDS_DIAMOND_TOOL)
+                .add(ModBlock.TITANIUM_ORE);
 
         getOrCreateTagBuilder(TagKey.of(RegistryKeys.BLOCK, new Identifier("fabric", "needs_tool_level_4")));
     }

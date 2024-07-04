@@ -24,8 +24,11 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
     @Override
     public void generate() {
         addDrop(ModBlock.MYTHRIL_BLOCK);
+        addDrop(ModBlock.TITANIUM_BLOCK);
 
         addDrop(ModBlock.MYTHRIL_ORE, copperLikeOreDrops(ModBlock.MYTHRIL_ORE, ModItem.RAW_MYTHRIL));
+        addDrop(ModBlock.TITANIUM_ORE, oreDrops(ModBlock.TITANIUM_ORE, ModItem.RAW_TITANIUM));
+        addDrop(ModBlock.DEEPSLATE_MYTHRIL_ORE, copperLikeOreDrops(ModBlock.DEEPSLATE_MYTHRIL_ORE, ModItem.RAW_MYTHRIL));
 
     }
     public LootTable.Builder copperLikeOreDrops(Block drop, Item item) {

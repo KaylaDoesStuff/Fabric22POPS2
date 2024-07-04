@@ -16,13 +16,29 @@ public class ModItemGroup {
             new Identifier(SmthElseThen.MOD_ID, "mythril"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.mythril"))
                     .icon(() -> new ItemStack(ModItem.MYTHRIL_INGOT)).entries((displayContext, entries) -> {
+
+                        entries.add(ModItem.CIRNO_FUMO);
+
                         entries.add(ModItem.MYTHRIL_INGOT);
                         entries.add(ModItem.RAW_MYTHRIL);
                         entries.add(ModItem.MYTHRIL_ROD);
-                        entries.add(ModItem.CIRNO_FUMO);
 
                         entries.add(ModBlock.MYTHRIL_BLOCK);
                         entries.add(ModBlock.MYTHRIL_ORE);
+                        entries.add(ModBlock.DEEPSLATE_MYTHRIL_ORE);
+
+                    }).build());
+
+    public static final ItemGroup TITANIUM_GROUP = Registry.register(Registries.ITEM_GROUP,
+            new Identifier(SmthElseThen.MOD_ID, "titanium"),
+            FabricItemGroup.builder().displayName(Text.translatable("itemgroup.titanium"))
+                    .icon(() -> new ItemStack(ModItem.TITANIUM_INGOT)).entries((displayContext, entries) -> {
+
+                        entries.add(ModItem.TITANIUM_INGOT);
+                        entries.add(ModItem.RAW_TITANIUM);
+
+                        entries.add(ModBlock.TITANIUM_BLOCK);
+                        entries.add(ModBlock.TITANIUM_ORE);
                     }).build());
 
     public static void registerModGroups() {

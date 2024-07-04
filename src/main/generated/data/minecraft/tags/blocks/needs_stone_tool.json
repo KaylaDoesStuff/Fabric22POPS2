@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "smthelsethen:mythril_block"
+    "smthelsethen:mythril_block",
+    "smthelsethen:titanium_block"
   ]
 }

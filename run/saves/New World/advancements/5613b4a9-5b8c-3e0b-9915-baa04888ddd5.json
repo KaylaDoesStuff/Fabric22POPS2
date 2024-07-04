@@ -1,0 +1,69 @@
+{
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-07-03 06:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-07-03 06:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-07-03 06:12:32 +0000"
+    },
+    "done": true
+  },
+  "smthelsethen:recipes/decorations/mythril_block": {
+    "criteria": {
+      "has_mythril_ingot": "2024-07-03 06:12:32 +0000"
+    },
+    "done": true
+  },
+  "smthelsethen:recipes/building_blocks/mythril_ingot": {
+    "criteria": {
+      "has_mythril_block": "2024-07-03 06:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-07-03 06:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-07-03 06:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-07-03 06:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-07-03 06:12:34 +0000"
+    },
+    "done": false
+  },
+  "smthelsethen:recipes/misc/mythril_ingot_from_blasting_mythril_ore": {
+    "criteria": {
+      "has_mythril_ore": "2024-07-03 06:12:32 +0000"
+    },
+    "done": true
+  },
+  "smthelsethen:recipes/misc/mythril_ingot_from_smelting_mythril_ore": {
+    "criteria": {
+      "has_mythril_ore": "2024-07-03 06:12:32 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -1,3 +1,6 @@
-// 1.20.1	2024-07-03T06:05:04.761383566	SmthElseThen/Block Loot Tables
+// 1.20.1	2024-07-03T09:33:58.870177661	SmthElseThen/Block Loot Tables
 ec91bb54100dcc9c9f28621c9e14872b3cf4a843 data/smthelsethen/loot_tables/blocks/mythril_block.json
+96e73dbfb29b56056a9f74e551078679712d7d13 data/smthelsethen/loot_tables/blocks/titanium_ore.json
+df11a4423563653c41152d2c89dc1ac23bd7d511 data/smthelsethen/loot_tables/blocks/deepslate_mythril_ore.json
 46258060af278845136f4b9a6394fdbc381f6dc9 data/smthelsethen/loot_tables/blocks/mythril_ore.json
+657b8b0935af48adc3f043faa34b4ef121ceadd2 data/smthelsethen/loot_tables/blocks/titanium_block.json
